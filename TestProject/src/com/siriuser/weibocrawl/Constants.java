@@ -5,7 +5,6 @@ public interface Constants {
 	
 	public final static String SOLR_SERVER_URL = "http://localhost:8090/solr";
 	
-	//SOLR涓�鎻愪氦鐨勬渶澶ф暟閲�	public final static int SOLR_MAX_COMMIT_CNT = 1000;
 	
 	public final static String FIELD_ID = "id";
 	public final static String FIELD_TREND = "2";
