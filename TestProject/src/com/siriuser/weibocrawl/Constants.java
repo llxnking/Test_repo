@@ -17,9 +17,9 @@ public interface Constants {
 	
 	public final static String XPATH_FETCHER = "//fetcher";
 	
-	public final static int POSITIVE_NATURE = 1; // 姝ｉ潰鏂伴椈
-	public final static int NEUTRAL_NATURE = 2; // 涓�鏂伴椈
-	public final static int NEGATIVE_NATURE = 4; // 璐熼潰鏂伴椈
+	public final static int POSITIVE_NATURE = 1; 
+	public final static int NEUTRAL_NATURE = 2; 
+	public final static int NEGATIVE_NATURE = 4; 
 	
 	public static final String POS_WORDS_PATH = "conf/pos_words";
 	public static final String NEG_WORDS_PATH = "conf/neg_words";
